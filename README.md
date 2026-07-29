@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,4 +134,9 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
