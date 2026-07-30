@@ -131,6 +131,7 @@
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
@@ -140,6 +141,7 @@
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -154,6 +156,7 @@
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
