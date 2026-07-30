@@ -128,12 +128,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
