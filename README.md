@@ -20,6 +20,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
