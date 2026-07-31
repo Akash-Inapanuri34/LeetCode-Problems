@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -203,6 +204,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -212,4 +214,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
