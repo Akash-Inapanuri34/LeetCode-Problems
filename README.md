@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0516-longest-palindromic-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Binary Search Tree
 |  |
