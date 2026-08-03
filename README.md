@@ -13,6 +13,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0174-dungeon-game) |
+| [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
@@ -188,6 +190,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
