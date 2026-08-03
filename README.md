@@ -13,6 +13,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0997-find-the-town-judge](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1406-stone-game-iii) |
@@ -70,6 +71,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -249,4 +251,8 @@
 | [0486-predict-the-winner](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
