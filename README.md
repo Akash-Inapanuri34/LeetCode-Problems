@@ -181,12 +181,14 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,4 +258,9 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
