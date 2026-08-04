@@ -191,6 +191,7 @@
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -202,6 +203,7 @@
 | [0310-minimum-height-trees](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -273,6 +275,7 @@
 | [0207-course-schedule](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0997-find-the-town-judge](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -285,6 +288,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
+| [1462-course-schedule-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
