@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0174-dungeon-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 ## Enumeration
@@ -181,6 +183,7 @@
 | [0113-path-sum-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -192,6 +195,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -268,5 +272,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
