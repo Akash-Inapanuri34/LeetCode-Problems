@@ -12,6 +12,7 @@
 | [0486-predict-the-winner](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
@@ -107,6 +109,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -204,6 +207,7 @@
 | [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
+| [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1462-course-schedule-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
@@ -298,4 +302,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
