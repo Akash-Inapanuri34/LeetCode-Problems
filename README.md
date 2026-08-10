@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -258,6 +259,7 @@
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0486-predict-the-winner](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -313,4 +316,20 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
