@@ -345,4 +345,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
