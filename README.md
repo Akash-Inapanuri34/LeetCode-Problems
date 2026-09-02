@@ -29,6 +29,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -94,6 +95,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@
 | [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -228,6 +232,7 @@
 | [1462-course-schedule-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
