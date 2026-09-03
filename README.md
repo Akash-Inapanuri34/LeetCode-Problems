@@ -33,6 +33,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
