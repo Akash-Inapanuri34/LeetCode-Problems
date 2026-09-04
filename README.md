@@ -34,6 +34,7 @@
 | [3731-find-missing-elements](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
