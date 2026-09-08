@@ -132,6 +132,7 @@
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
+| [0940-distinct-subsequences-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -281,6 +282,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1510-stone-game-iv) |
