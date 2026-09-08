@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0174-dungeon-game) |
 | [0486-predict-the-winner](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0486-predict-the-winner) |
