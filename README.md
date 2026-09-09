@@ -54,6 +54,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
