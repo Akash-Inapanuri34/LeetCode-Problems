@@ -180,6 +180,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
