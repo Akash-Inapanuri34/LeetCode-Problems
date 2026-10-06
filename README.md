@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0174-dungeon-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0174-dungeon-game) |
@@ -78,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -165,6 +167,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0174-dungeon-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0867-transpose-matrix) |
