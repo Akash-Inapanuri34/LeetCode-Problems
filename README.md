@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -66,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
