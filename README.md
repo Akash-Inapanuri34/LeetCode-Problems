@@ -25,6 +25,7 @@
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -71,6 +72,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1833-maximum-ice-cream-bars](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -201,6 +204,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
