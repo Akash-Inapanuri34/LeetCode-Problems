@@ -13,6 +13,7 @@
 | [0518-coin-change-ii](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0752-open-the-lock](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0752-open-the-lock) |
+| [0867-transpose-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -77,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0174-dungeon-game](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-Inapanuri34/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
